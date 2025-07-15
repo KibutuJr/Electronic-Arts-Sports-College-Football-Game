@@ -51,6 +51,10 @@ Each class has:
 - Public and private members for encapsulation
 - Use of design patterns like **Strategy** and **Observer**
 
+#### 📌 UML Class Diagram:
+
+![UML Class Diagram](Class%20Diagram.png)
+
 ---
 
 ### 🧠 Phase 3: C++ Header File (`.h`)
@@ -127,7 +131,7 @@ Refactored methods include:
 
 ## 📂 File Structure
 
-``
+```
 
 CollegeFootballProject/
 ├── MomentumSystem.h # Header definitions for momentum classes
@@ -135,7 +139,7 @@ CollegeFootballProject/
 ├── InventorySystem.cpp # Refactored item inventory with bug fix
 ├── README.md # This file
 
-``
+```
 
 
 ---
